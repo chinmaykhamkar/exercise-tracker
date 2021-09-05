@@ -2,8 +2,14 @@
 
 ## A simple web app to track your exercises
 Live link to the app => https://exercise-track-mern-app.netlify.app/
+
 tech stack used for this project
+
 backend - node js
+
 frontend - react js
+
 database - mongodb
+
 hosting - heroku (backend), netlify (frontend)
+
